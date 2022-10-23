@@ -1,4 +1,4 @@
-python ==3.9.0
+python ==3.9.1
 streamlit == 1.13.0
 web3 ==5.31.1
 pandas == 1.5.1
